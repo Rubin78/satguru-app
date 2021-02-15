@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/satguru-app/static/css/main.4fc46eb4.chunk.css",
+    "main.js": "/satguru-app/static/js/main.639a8b7f.chunk.js",
+    "main.js.map": "/satguru-app/static/js/main.639a8b7f.chunk.js.map",
+    "runtime-main.js": "/satguru-app/static/js/runtime-main.f62c440e.js",
+    "runtime-main.js.map": "/satguru-app/static/js/runtime-main.f62c440e.js.map",
+    "static/css/2.1c44f44c.chunk.css": "/satguru-app/static/css/2.1c44f44c.chunk.css",
+    "static/js/2.ddbc0d93.chunk.js": "/satguru-app/static/js/2.ddbc0d93.chunk.js",
+    "static/js/2.ddbc0d93.chunk.js.map": "/satguru-app/static/js/2.ddbc0d93.chunk.js.map",
+    "static/js/3.25027bc5.chunk.js": "/satguru-app/static/js/3.25027bc5.chunk.js",
+    "static/js/3.25027bc5.chunk.js.map": "/satguru-app/static/js/3.25027bc5.chunk.js.map",
+    "index.html": "/satguru-app/index.html",
+    "static/css/2.1c44f44c.chunk.css.map": "/satguru-app/static/css/2.1c44f44c.chunk.css.map",
+    "static/css/main.4fc46eb4.chunk.css.map": "/satguru-app/static/css/main.4fc46eb4.chunk.css.map",
+    "static/js/2.ddbc0d93.chunk.js.LICENSE.txt": "/satguru-app/static/js/2.ddbc0d93.chunk.js.LICENSE.txt",
+    "static/media/Layerfour.66752a53.png": "/satguru-app/static/media/Layerfour.66752a53.png",
+    "static/media/Layerone.369cf3a4.png": "/satguru-app/static/media/Layerone.369cf3a4.png",
+    "static/media/Layerthree.53891e50.png": "/satguru-app/static/media/Layerthree.53891e50.png",
+    "static/media/Layertwo.878b03d3.png": "/satguru-app/static/media/Layertwo.878b03d3.png",
+    "static/media/logo.6ce24c58.svg": "/satguru-app/static/media/logo.6ce24c58.svg",
+    "static/media/logo1.05c6d9da.png": "/satguru-app/static/media/logo1.05c6d9da.png",
+    "static/media/one.65bf662d.png": "/satguru-app/static/media/one.65bf662d.png",
+    "static/media/post1.9a3f2f19.png": "/satguru-app/static/media/post1.9a3f2f19.png",
+    "static/media/post2.2a08b3c0.png": "/satguru-app/static/media/post2.2a08b3c0.png",
+    "static/media/section13.1ea42901.png": "/satguru-app/static/media/section13.1ea42901.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62c440e.js",
+    "static/css/2.1c44f44c.chunk.css",
+    "static/js/2.ddbc0d93.chunk.js",
+    "static/css/main.4fc46eb4.chunk.css",
+    "static/js/main.639a8b7f.chunk.js"
+  ]
+}
